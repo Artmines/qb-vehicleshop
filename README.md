@@ -4,7 +4,9 @@
 * Configurable time
 * Returns player once time is up
 * Can't take out more than one vehicle
-
+## NYC MAPS
+- [CRM DEVELOPMENT](https://discord.gg/crm)  
+- [Hell Script Shop](https://discord.gg/WKNRDtF9jp)
 **Financing:**
 * Configurable down payment
 * Configurable maximum payments
