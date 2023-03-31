@@ -52,28 +52,28 @@ Config.Shops = {
         ['ShowroomVehicles'] = {
             [1] = {
                 coords = vector4(317.01, 1299.64, 14.75, 122.06), -- where the vehicle will spawn on display
-                defaultVehicle = 'rmodrover', -- Default display vehicle
-                chosenVehicle = 'rmodrover', -- Same as default but is dynamically changed when swapping vehicles
+                defaultVehicle = 'adder', -- Default display vehicle
+                chosenVehicle = 'adder', -- Same as default but is dynamically changed when swapping vehicles
             },
             [2] = {
                 coords = vector4(301.6, 1300.03, 14.75, 225.91),
-                defaultVehicle = 'rmodjeep',
-                chosenVehicle = 'rmodjeep'
+                defaultVehicle = 'schafter2',
+                chosenVehicle = 'schafter2'
             },
             [3] = {
                 coords = vector4(311.81, 1292.98, 14.75, 33.76),
-                defaultVehicle = 'rmodr50',
-                chosenVehicle = 'rmodr50'
+                defaultVehicle = 'comet2',
+                chosenVehicle = 'comet2'
             },
             [4] = {
                 coords = vector4(294.98, 1285.01, 16.27, 59.94),
-                defaultVehicle = 'rmodrs6r',
-                chosenVehicle = 'rmodrs6r'
+                defaultVehicle = 'vigero',
+                chosenVehicle = 'vigero'
             },
             [5] = {
                 coords = vector4(311.82, 1294.09, 19.74, 200.08),
-                defaultVehicle = 'rmodlfa',
-                chosenVehicle = 'rmodlfa'
+                defaultVehicle = 't20',
+                chosenVehicle = 't20'
             }
         },
     },
@@ -106,28 +106,28 @@ Config.Shops = {
         ['ShowroomVehicles'] = {
             [1] = {
                 coords = vector4(-791.38, -218.25, 36.50, 31.85),
-                defaultVehicle = 'astravxr',
-                chosenVehicle = 'astravxr'
+                defaultVehicle = 'italirsx',
+                chosenVehicle = 'italirsx'
             },
             [2] = {
                 coords = vector4(-795.61, -227.79, 36.05, 141.38),
-                defaultVehicle = 'sn14golfvw',
-                chosenVehicle = 'sn14golfvw'
+                defaultVehicle = 'italigtb',
+                chosenVehicle = 'italigtb'
             },
             [3] = {
                 coords = vector4(-779.32, -218.75, 36.07, 123.0),
-                defaultVehicle = 'rmode63s',
-                chosenVehicle = 'rmode63s'
+                defaultVehicle = 'nero',
+                chosenVehicle = 'nero'
             },
             [4] = {
                 coords = vector4(-787.59, -206.71, 36.11, 113.83),
-                defaultVehicle = 'rmodrover',
-                chosenVehicle = 'rmodrover'
+                defaultVehicle = 'bati',
+                chosenVehicle = 'bati'
             },
             [5] = {
                 coords = vector4(-803.36, -213.51, 36.11, 137.61),
-                defaultVehicle = 'm3e36',
-                chosenVehicle = 'm3e36'
+                defaultVehicle = 'carbonrs',
+                chosenVehicle = 'carbonrs'
             },
         }
 
